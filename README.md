@@ -42,4 +42,4 @@ I am an aspiring software engineer interested in AI and Machine Learning.
 
 <a href="http://www.github.com/pathikpatel54"><img src="https://github-readme-stats.vercel.app/api?username=pathikpatel54&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pathikpatel54's GitHub stats" /></a>
 
-<a href="http://www.github.com/pathikpatel54"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pathikpatel54&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
