@@ -4,7 +4,7 @@
 Aspiring Software engineer
 -----------------
 
-I am an aspiring software engineer interested in AI and Machine Learning.
+I am interested in AI and Machine Learning.
 
 * 🌍  I'm based in Philadelphia
 * 🖥️  See my portfolio at [pathikpatel.dev](https://pathikpatel.dev)
