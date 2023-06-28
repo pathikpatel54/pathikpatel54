@@ -7,7 +7,7 @@ I am an Aspiring Software engineer.
 * 🌍  I'm based in Philadelphia
 * 🖥️  See my portfolio at [pathikpatel.dev](https://pathikpatel.dev)
 * ✉️  You can contact me at [pathikpatel54@gmail.com](mailto:pathikpatel54@gmail.com) or [pap325@drexel.edu](mailto:pap325@drexel.edu) 
-* 🚀  I'm currently working on [CypherPad](http://github.com/pathikpatel54/CypherPad)
+* 🚀  I'm currently working on [CipherPad](http://github.com/pathikpatel54/CypherPad)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Projects
 
